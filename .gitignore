@@ -1,0 +1,13 @@
+﻿.build_venv/
+build/
+dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.exe
+*.log
+.env
+consolidateur/data/*
+!consolidateur/data/.gitkeep
+consolidateur/tests/fixtures/
+consolidateur/tests/donnees_reelles/

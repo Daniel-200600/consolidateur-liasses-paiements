@@ -1,0 +1,62 @@
+[theme]
+base = "light"
+
+primaryColor = "#0B6E4F"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#FBF3D9"
+textColor = "#16261D"
+
+linkColor = "#B8860B"
+borderColor = "#D9B54A"
+codeBackgroundColor = "#FBF3D9"
+codeTextColor = "#16261D"
+
+greenColor = "#0B6E4F"
+greenBackgroundColor = "#E3F3EC"
+greenTextColor = "#0B4A34"
+yellowColor = "#C9A227"
+yellowBackgroundColor = "#FBF3D9"
+yellowTextColor = "#7A5E12"
+
+chartCategoricalColors = ["#0B6E4F", "#C9A227", "#145C41", "#8A6D1D", "#1F9169", "#B8860B", "#0B4A34"]
+
+dataframeBorderColor = "#D9B54A"
+dataframeHeaderBackgroundColor = "#FBF3D9"
+
+# Polices SYSTÈME, volontairement : les versions précédentes chargeaient
+# Inter et Fraunces depuis fonts.googleapis.com à chaque démarrage — ce qui
+# retardait l'affichage (requête réseau bloquante, très pénalisante sur une
+# connexion lente) et contredisait surtout l'exigence fondatrice du projet :
+# aucune donnée ne doit quitter le poste, or une requête de police signale à
+# un tiers que l'application est utilisée.
+font = "sans-serif"
+headingFont = "serif"
+
+baseRadius = "8px"
+buttonRadius = "8px"
+showWidgetBorder = true
+showSidebarBorder = true
+
+[theme.sidebar]
+backgroundColor = "#0B6E4F"
+secondaryBackgroundColor = "#0E5C42"
+textColor = "#FBF3D9"
+borderColor = "#C9A227"
+primaryColor = "#C9A227"
+linkColor = "#F0D98C"
+codeBackgroundColor = "#0E5C42"
+
+[server]
+# Le surveillant de fichiers relit l'arborescence en continu ; inutile en
+# usage courant (le code ne change pas pendant une session de travail) et
+# coûteux, particulièrement sous Windows sur un dossier volumineux.
+fileWatcherType = "none"
+
+[browser]
+# Aucune statistique d'usage transmise : gain au démarrage, et cohérent avec
+# le principe « rien ne quitte le poste ».
+gatherUsageStats = false
+
+[runner]
+# Évite de réexécuter le script pendant qu'un rerun est déjà en cours.
+fastReruns = true

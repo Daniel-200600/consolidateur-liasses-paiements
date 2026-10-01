@@ -1,0 +1,3450 @@
+{
+ "chèques&VIR": {
+  "sequence": [
+   [
+    0,
+    "statistiques sur les instruments de paiement"
+   ],
+   [
+    1,
+    "etablissement"
+   ],
+   [
+    2,
+    "nombre de compte de cheques"
+   ],
+   [
+    3,
+    "nombre de particuliers ayant des chequiers"
+   ],
+   [
+    4,
+    "nombre de personnes morales ayant des chequiers"
+   ],
+   [
+    6,
+    "cheques"
+   ],
+   [
+    7,
+    "nombre | montant"
+   ],
+   [
+    8,
+    "a transaction par cheques entre clients de la banque"
+   ],
+   [
+    9,
+    "b transactions par cheques systac"
+   ],
+   [
+    10,
+    "dont emis par vos clients"
+   ],
+   [
+    11,
+    "dont recus"
+   ],
+   [
+    12,
+    "c cheques internationaux hors cemac"
+   ],
+   [
+    13,
+    "dont emis par vos clients"
+   ],
+   [
+    14,
+    "dont recus"
+   ],
+   [
+    15,
+    "total a b c"
+   ],
+   [
+    17,
+    "virements"
+   ],
+   [
+    18,
+    "nombre | montant"
+   ],
+   [
+    19,
+    "a transaction par virements entre clients de la banque"
+   ],
+   [
+    20,
+    "b transactions par virements systac"
+   ],
+   [
+    21,
+    "dont emis par vos clients"
+   ],
+   [
+    22,
+    "dont recus"
+   ],
+   [
+    23,
+    "c virements internationaux hors cemac"
+   ],
+   [
+    24,
+    "dont emis par vos clients"
+   ],
+   [
+    25,
+    "dont recus"
+   ],
+   [
+    26,
+    "total a b c"
+   ],
+   [
+    29,
+    "prelevements"
+   ],
+   [
+    30,
+    "nombre | montant"
+   ],
+   [
+    31,
+    "prelevements dans la banque"
+   ],
+   [
+    34,
+    "effets de commerce"
+   ],
+   [
+    35,
+    "nombre | montant"
+   ],
+   [
+    36,
+    "a effets de commerce entre clients de la banque"
+   ],
+   [
+    37,
+    "b effets de commerce en compensation emis par vos clients"
+   ],
+   [
+    38,
+    "en zone cemac"
+   ],
+   [
+    39,
+    "a l international"
+   ],
+   [
+    40,
+    "c effets de commerce en compensation recus"
+   ],
+   [
+    41,
+    "en zone cemac"
+   ],
+   [
+    42,
+    "a l international"
+   ],
+   [
+    43,
+    "total a b c"
+   ],
+   [
+    46,
+    "retraits manuels"
+   ],
+   [
+    47,
+    "nombre | montant"
+   ],
+   [
+    48,
+    "retrais especes aux guichets"
+   ]
+  ],
+  "sequence_libelles": [
+   [
+    0,
+    "statistiques sur les instruments de paiement"
+   ],
+   [
+    1,
+    "etablissement"
+   ],
+   [
+    2,
+    "nombre de compte de cheques"
+   ],
+   [
+    3,
+    "nombre de particuliers ayant des chequiers"
+   ],
+   [
+    4,
+    "nombre de personnes morales ayant des chequiers"
+   ],
+   [
+    6,
+    "cheques"
+   ],
+   [
+    7,
+    "nombre"
+   ],
+   [
+    8,
+    "a transaction par cheques entre clients de la banque"
+   ],
+   [
+    9,
+    "b transactions par cheques systac"
+   ],
+   [
+    10,
+    "dont emis par vos clients"
+   ],
+   [
+    11,
+    "dont recus"
+   ],
+   [
+    12,
+    "c cheques internationaux hors cemac"
+   ],
+   [
+    13,
+    "dont emis par vos clients"
+   ],
+   [
+    14,
+    "dont recus"
+   ],
+   [
+    15,
+    "total a b c"
+   ],
+   [
+    17,
+    "virements"
+   ],
+   [
+    18,
+    "nombre"
+   ],
+   [
+    19,
+    "a transaction par virements entre clients de la banque"
+   ],
+   [
+    20,
+    "b transactions par virements systac"
+   ],
+   [
+    21,
+    "dont emis par vos clients"
+   ],
+   [
+    22,
+    "dont recus"
+   ],
+   [
+    23,
+    "c virements internationaux hors cemac"
+   ],
+   [
+    24,
+    "dont emis par vos clients"
+   ],
+   [
+    25,
+    "dont recus"
+   ],
+   [
+    26,
+    "total a b c"
+   ],
+   [
+    29,
+    "prelevements"
+   ],
+   [
+    30,
+    "nombre"
+   ],
+   [
+    31,
+    "prelevements dans la banque"
+   ],
+   [
+    34,
+    "effets de commerce"
+   ],
+   [
+    35,
+    "nombre"
+   ],
+   [
+    36,
+    "a effets de commerce entre clients de la banque"
+   ],
+   [
+    37,
+    "b effets de commerce en compensation emis par vos clients"
+   ],
+   [
+    38,
+    "en zone cemac"
+   ],
+   [
+    39,
+    "a l international"
+   ],
+   [
+    40,
+    "c effets de commerce en compensation recus"
+   ],
+   [
+    41,
+    "en zone cemac"
+   ],
+   [
+    42,
+    "a l international"
+   ],
+   [
+    43,
+    "total a b c"
+   ],
+   [
+    46,
+    "retraits manuels"
+   ],
+   [
+    47,
+    "nombre"
+   ],
+   [
+    48,
+    "retrais especes aux guichets"
+   ]
+  ],
+  "colonnes_libelles": {
+   "0": 0,
+   "1": 0,
+   "2": 0,
+   "3": 0,
+   "4": 0,
+   "6": 0,
+   "7": 1,
+   "8": 0,
+   "9": 0,
+   "10": 0,
+   "11": 0,
+   "12": 0,
+   "13": 0,
+   "14": 0,
+   "15": 0,
+   "17": 0,
+   "18": 1,
+   "19": 0,
+   "20": 0,
+   "21": 0,
+   "22": 0,
+   "23": 0,
+   "24": 0,
+   "25": 0,
+   "26": 0,
+   "29": 0,
+   "30": 1,
+   "31": 0,
+   "34": 0,
+   "35": 1,
+   "36": 0,
+   "37": 0,
+   "38": 0,
+   "39": 0,
+   "40": 0,
+   "41": 0,
+   "42": 0,
+   "43": 0,
+   "46": 0,
+   "47": 1,
+   "48": 0
+  },
+  "n_lignes": 49,
+  "n_colonnes": 3,
+  "mesures_statiques": {
+   "nombre": 1,
+   "montant": 2
+  }
+ },
+ "Transfert d'argent": {
+  "sequence": [
+   [
+    0,
+    "statistiques transfert d argent 2025 service de transmission de fonds"
+   ],
+   [
+    1,
+    "remplir un formulaire pour chaque type de reseau de transfert d argent"
+   ],
+   [
+    2,
+    "etablissement"
+   ],
+   [
+    3,
+    "reseau"
+   ],
+   [
+    4,
+    "total transactions a b | total transactions"
+   ],
+   [
+    5,
+    "nombre | valeur"
+   ],
+   [
+    6,
+    "transfert d argent recus"
+   ],
+   [
+    7,
+    "transfert d argent envoi"
+   ],
+   [
+    9,
+    "total"
+   ],
+   [
+    11,
+    "a operations domestiques zone cemac"
+   ],
+   [
+    12,
+    "nombre | valeur"
+   ],
+   [
+    13,
+    "transfert d argent recus"
+   ],
+   [
+    14,
+    "dont cameroun"
+   ],
+   [
+    15,
+    "dont tchad"
+   ],
+   [
+    16,
+    "dont rca"
+   ],
+   [
+    17,
+    "dont congo"
+   ],
+   [
+    18,
+    "dont gabon"
+   ],
+   [
+    19,
+    "dont guinee equatoriale"
+   ],
+   [
+    20,
+    "transfert d argent envoi"
+   ],
+   [
+    21,
+    "dont cameroun"
+   ],
+   [
+    22,
+    "dont tchad"
+   ],
+   [
+    23,
+    "dont rca"
+   ],
+   [
+    24,
+    "dont congo"
+   ],
+   [
+    25,
+    "dont gabon"
+   ],
+   [
+    26,
+    "dont guinee equatoriale"
+   ],
+   [
+    27,
+    "total"
+   ],
+   [
+    29,
+    "b transactions internationales hors zone cemac"
+   ],
+   [
+    30,
+    "nombre | valeur"
+   ],
+   [
+    31,
+    "transfert d argent recus"
+   ],
+   [
+    32,
+    "dont afrique de l ouest cedeao"
+   ],
+   [
+    33,
+    "dont autres pays africains"
+   ],
+   [
+    34,
+    "dont union europeenne"
+   ],
+   [
+    35,
+    "dont autres pays d europe"
+   ],
+   [
+    36,
+    "dont amerique du nord"
+   ],
+   [
+    37,
+    "dont amerique du sud"
+   ],
+   [
+    38,
+    "dont asie"
+   ],
+   [
+    39,
+    "dont oceanie"
+   ],
+   [
+    40,
+    "transfert d argent envoi"
+   ],
+   [
+    41,
+    "dont afrique de l ouest cedeao"
+   ],
+   [
+    42,
+    "dont autres pays africains"
+   ],
+   [
+    43,
+    "dont union europeenne"
+   ],
+   [
+    44,
+    "dont autres pays d europe"
+   ],
+   [
+    45,
+    "dont amerique du nord"
+   ],
+   [
+    46,
+    "dont amerique du sud"
+   ],
+   [
+    47,
+    "dont asie"
+   ],
+   [
+    48,
+    "dont oceanie"
+   ],
+   [
+    49,
+    "total"
+   ]
+  ],
+  "sequence_libelles": [
+   [
+    0,
+    "statistiques transfert d argent 2025 service de transmission de fonds"
+   ],
+   [
+    1,
+    "remplir un formulaire pour chaque type de reseau de transfert d argent"
+   ],
+   [
+    2,
+    "etablissement"
+   ],
+   [
+    3,
+    "reseau"
+   ],
+   [
+    4,
+    "total transactions a b"
+   ],
+   [
+    5,
+    "nombre"
+   ],
+   [
+    6,
+    "transfert d argent recus"
+   ],
+   [
+    7,
+    "transfert d argent envoi"
+   ],
+   [
+    9,
+    "total"
+   ],
+   [
+    11,
+    "a operations domestiques zone cemac"
+   ],
+   [
+    12,
+    "nombre"
+   ],
+   [
+    13,
+    "transfert d argent recus"
+   ],
+   [
+    14,
+    "dont cameroun"
+   ],
+   [
+    15,
+    "dont tchad"
+   ],
+   [
+    16,
+    "dont rca"
+   ],
+   [
+    17,
+    "dont congo"
+   ],
+   [
+    18,
+    "dont gabon"
+   ],
+   [
+    19,
+    "dont guinee equatoriale"
+   ],
+   [
+    20,
+    "transfert d argent envoi"
+   ],
+   [
+    21,
+    "dont cameroun"
+   ],
+   [
+    22,
+    "dont tchad"
+   ],
+   [
+    23,
+    "dont rca"
+   ],
+   [
+    24,
+    "dont congo"
+   ],
+   [
+    25,
+    "dont gabon"
+   ],
+   [
+    26,
+    "dont guinee equatoriale"
+   ],
+   [
+    27,
+    "total"
+   ],
+   [
+    29,
+    "b transactions internationales hors zone cemac"
+   ],
+   [
+    30,
+    "nombre"
+   ],
+   [
+    31,
+    "transfert d argent recus"
+   ],
+   [
+    32,
+    "dont afrique de l ouest cedeao"
+   ],
+   [
+    33,
+    "dont autres pays africains"
+   ],
+   [
+    34,
+    "dont union europeenne"
+   ],
+   [
+    35,
+    "dont autres pays d europe"
+   ],
+   [
+    36,
+    "dont amerique du nord"
+   ],
+   [
+    37,
+    "dont amerique du sud"
+   ],
+   [
+    38,
+    "dont asie"
+   ],
+   [
+    39,
+    "dont oceanie"
+   ],
+   [
+    40,
+    "transfert d argent envoi"
+   ],
+   [
+    41,
+    "dont afrique de l ouest cedeao"
+   ],
+   [
+    42,
+    "dont autres pays africains"
+   ],
+   [
+    43,
+    "dont union europeenne"
+   ],
+   [
+    44,
+    "dont autres pays d europe"
+   ],
+   [
+    45,
+    "dont amerique du nord"
+   ],
+   [
+    46,
+    "dont amerique du sud"
+   ],
+   [
+    47,
+    "dont asie"
+   ],
+   [
+    48,
+    "dont oceanie"
+   ],
+   [
+    49,
+    "total"
+   ]
+  ],
+  "colonnes_libelles": {
+   "0": 0,
+   "1": 0,
+   "2": 0,
+   "3": 0,
+   "4": 0,
+   "5": 1,
+   "6": 0,
+   "7": 0,
+   "9": 0,
+   "11": 0,
+   "12": 1,
+   "13": 0,
+   "14": 0,
+   "15": 0,
+   "16": 0,
+   "17": 0,
+   "18": 0,
+   "19": 0,
+   "20": 0,
+   "21": 0,
+   "22": 0,
+   "23": 0,
+   "24": 0,
+   "25": 0,
+   "26": 0,
+   "27": 0,
+   "29": 0,
+   "30": 1,
+   "31": 0,
+   "32": 0,
+   "33": 0,
+   "34": 0,
+   "35": 0,
+   "36": 0,
+   "37": 0,
+   "38": 0,
+   "39": 0,
+   "40": 0,
+   "41": 0,
+   "42": 0,
+   "43": 0,
+   "44": 0,
+   "45": 0,
+   "46": 0,
+   "47": 0,
+   "48": 0,
+   "49": 0
+  },
+  "n_lignes": 50,
+  "n_colonnes": 3,
+  "mesures_statiques": {
+   "nombre": 1,
+   "valeur": 2
+  }
+ },
+ "Mobile Money1": {
+  "sequence": [
+   [
+    0,
+    "informations sur le mobile money"
+   ],
+   [
+    1,
+    "etablissement"
+   ],
+   [
+    2,
+    "service"
+   ],
+   [
+    3,
+    "nature de l information"
+   ],
+   [
+    4,
+    "encours de monnaie electronique"
+   ],
+   [
+    5,
+    "solde du compte miroir garantissant l encours de monnaie electronique emise"
+   ],
+   [
+    6,
+    "nombre total de porteurs de mobile money"
+   ],
+   [
+    7,
+    "nombre de porteurs de mobile money actifs"
+   ],
+   [
+    8,
+    "nombre de porteurs de mobile money disposant d un compte bancaire"
+   ],
+   [
+    9,
+    "nombre de porteurs de mobile money salaries"
+   ],
+   [
+    10,
+    "nombre de porteurs de mobile money etudiants ou eleves"
+   ],
+   [
+    11,
+    "nombre de porteurs de mobile money sans profession declaree"
+   ],
+   [
+    12,
+    "nombre de porteurs de mobile money de sexe feminin"
+   ],
+   [
+    13,
+    "nombre de porteurs de mobile money de sexe masculin"
+   ],
+   [
+    14,
+    "nombre de porteurs de mobile money ages de moins de 21 ans"
+   ],
+   [
+    15,
+    "nombre de porteurs de mobile money ages de 21 a 35 ans"
+   ],
+   [
+    16,
+    "nombre de porteurs de mobile money ages entre 35 et 60 ans"
+   ],
+   [
+    17,
+    "nombre de porteurs de mobile money ages de plus de 60 ans"
+   ],
+   [
+    19,
+    "nombre total d accepteurs de mobile money"
+   ],
+   [
+    20,
+    "nombre d accepteurs de mobile money transports et voyages"
+   ],
+   [
+    21,
+    "nombre d accepteurs de mobile money reglement de factures eau electricites telephone services de telecommunications et television"
+   ],
+   [
+    22,
+    "nombre d accepteurs de mobile money supemaches magasins d equipement menager"
+   ],
+   [
+    23,
+    "nombre d accepteurs de mobile money administrations et services publics"
+   ],
+   [
+    24,
+    "nombre d accepteurs de mobile money divertissements et loisirs"
+   ],
+   [
+    25,
+    "nombre d accepteurs de mobile money alimentation et boissons"
+   ],
+   [
+    26,
+    "nombre d accepteurs de mobile money vente a distance"
+   ],
+   [
+    27,
+    "nombre d accepteurs de mobile money garage voiture moto et pieces detachees"
+   ],
+   [
+    28,
+    "nombre d accepteurs de mobile money universites et ecoles services aux etudiants et eleves"
+   ],
+   [
+    29,
+    "nombre d accepteurs de mobile money petrole essence stations services"
+   ],
+   [
+    30,
+    "nombre d accepteurs de mobile money hotels et autres services d hebergement"
+   ],
+   [
+    31,
+    "nombre d accepteurs de mobile money services divers"
+   ],
+   [
+    32,
+    "nombre d accepteurs de mobile money autres detaillants"
+   ],
+   [
+    33,
+    "nombre de distributeurs de mobile money"
+   ],
+   [
+    35,
+    "nombre de cartes prepayees actives"
+   ],
+   [
+    36,
+    "nombre de porteurs de cartes prepayees actifs"
+   ],
+   [
+    37,
+    "nombre de porteurs de cartes prepayes salaries"
+   ],
+   [
+    38,
+    "nombre de porteurs de cartes prepayees etudiants ou eleves"
+   ],
+   [
+    39,
+    "nombre de porteurs de cartes prepayees sans profession declaree"
+   ],
+   [
+    40,
+    "nombre de porteurs de cartes prepayees de sexe feminin"
+   ],
+   [
+    41,
+    "nombre de porteurs de cartes prepayees de sexe masculin"
+   ],
+   [
+    42,
+    "nombre de porteurs de cartes prepayees ages de moins de 21 ans"
+   ],
+   [
+    43,
+    "nombre de porteurs de cartes prepayees ages entre 21 et 35 ans"
+   ],
+   [
+    44,
+    "nombre de porteurs de cartes prepayees ages entre 35 et 60 ans"
+   ],
+   [
+    45,
+    "nombre de porteurs de cartes prepayees ages de plus de 60 ans"
+   ],
+   [
+    46,
+    "encours total de monnaie electronique dans les cartes prepayees"
+   ],
+   [
+    47,
+    "1 porteurs qui ont effectue au moins une transaction au cours des 30 derniers jours"
+   ],
+   [
+    48,
+    "2 autres services non repertories ailleurs"
+   ],
+   [
+    49,
+    "3 vente de biens non repertories ailleurs"
+   ],
+   [
+    50,
+    "4 somme des soldes des comptes de monnaie electronique"
+   ]
+  ],
+  "sequence_libelles": [
+   [
+    0,
+    "informations sur le mobile money"
+   ],
+   [
+    1,
+    "etablissement"
+   ],
+   [
+    2,
+    "service"
+   ],
+   [
+    3,
+    "nature de l information"
+   ],
+   [
+    4,
+    "encours de monnaie electronique"
+   ],
+   [
+    5,
+    "solde du compte miroir garantissant l encours de monnaie electronique emise"
+   ],
+   [
+    6,
+    "nombre total de porteurs de mobile money"
+   ],
+   [
+    7,
+    "nombre de porteurs de mobile money actifs"
+   ],
+   [
+    8,
+    "nombre de porteurs de mobile money disposant d un compte bancaire"
+   ],
+   [
+    9,
+    "nombre de porteurs de mobile money salaries"
+   ],
+   [
+    10,
+    "nombre de porteurs de mobile money etudiants ou eleves"
+   ],
+   [
+    11,
+    "nombre de porteurs de mobile money sans profession declaree"
+   ],
+   [
+    12,
+    "nombre de porteurs de mobile money de sexe feminin"
+   ],
+   [
+    13,
+    "nombre de porteurs de mobile money de sexe masculin"
+   ],
+   [
+    14,
+    "nombre de porteurs de mobile money ages de moins de 21 ans"
+   ],
+   [
+    15,
+    "nombre de porteurs de mobile money ages de 21 a 35 ans"
+   ],
+   [
+    16,
+    "nombre de porteurs de mobile money ages entre 35 et 60 ans"
+   ],
+   [
+    17,
+    "nombre de porteurs de mobile money ages de plus de 60 ans"
+   ],
+   [
+    19,
+    "nombre total d accepteurs de mobile money"
+   ],
+   [
+    20,
+    "nombre d accepteurs de mobile money transports et voyages"
+   ],
+   [
+    21,
+    "nombre d accepteurs de mobile money reglement de factures eau electricites telephone services de telecommunications et television"
+   ],
+   [
+    22,
+    "nombre d accepteurs de mobile money supemaches magasins d equipement menager"
+   ],
+   [
+    23,
+    "nombre d accepteurs de mobile money administrations et services publics"
+   ],
+   [
+    24,
+    "nombre d accepteurs de mobile money divertissements et loisirs"
+   ],
+   [
+    25,
+    "nombre d accepteurs de mobile money alimentation et boissons"
+   ],
+   [
+    26,
+    "nombre d accepteurs de mobile money vente a distance"
+   ],
+   [
+    27,
+    "nombre d accepteurs de mobile money garage voiture moto et pieces detachees"
+   ],
+   [
+    28,
+    "nombre d accepteurs de mobile money universites et ecoles services aux etudiants et eleves"
+   ],
+   [
+    29,
+    "nombre d accepteurs de mobile money petrole essence stations services"
+   ],
+   [
+    30,
+    "nombre d accepteurs de mobile money hotels et autres services d hebergement"
+   ],
+   [
+    31,
+    "nombre d accepteurs de mobile money services divers"
+   ],
+   [
+    32,
+    "nombre d accepteurs de mobile money autres detaillants"
+   ],
+   [
+    33,
+    "nombre de distributeurs de mobile money"
+   ],
+   [
+    35,
+    "nombre de cartes prepayees actives"
+   ],
+   [
+    36,
+    "nombre de porteurs de cartes prepayees actifs"
+   ],
+   [
+    37,
+    "nombre de porteurs de cartes prepayes salaries"
+   ],
+   [
+    38,
+    "nombre de porteurs de cartes prepayees etudiants ou eleves"
+   ],
+   [
+    39,
+    "nombre de porteurs de cartes prepayees sans profession declaree"
+   ],
+   [
+    40,
+    "nombre de porteurs de cartes prepayees de sexe feminin"
+   ],
+   [
+    41,
+    "nombre de porteurs de cartes prepayees de sexe masculin"
+   ],
+   [
+    42,
+    "nombre de porteurs de cartes prepayees ages de moins de 21 ans"
+   ],
+   [
+    43,
+    "nombre de porteurs de cartes prepayees ages entre 21 et 35 ans"
+   ],
+   [
+    44,
+    "nombre de porteurs de cartes prepayees ages entre 35 et 60 ans"
+   ],
+   [
+    45,
+    "nombre de porteurs de cartes prepayees ages de plus de 60 ans"
+   ],
+   [
+    46,
+    "encours total de monnaie electronique dans les cartes prepayees"
+   ],
+   [
+    47,
+    "1 porteurs qui ont effectue au moins une transaction au cours des 30 derniers jours"
+   ],
+   [
+    48,
+    "2 autres services non repertories ailleurs"
+   ],
+   [
+    49,
+    "3 vente de biens non repertories ailleurs"
+   ],
+   [
+    50,
+    "4 somme des soldes des comptes de monnaie electronique"
+   ]
+  ],
+  "colonnes_libelles": {
+   "0": 0,
+   "1": 0,
+   "2": 0,
+   "3": 0,
+   "4": 0,
+   "5": 0,
+   "6": 0,
+   "7": 0,
+   "8": 0,
+   "9": 0,
+   "10": 0,
+   "11": 0,
+   "12": 0,
+   "13": 0,
+   "14": 0,
+   "15": 0,
+   "16": 0,
+   "17": 0,
+   "19": 0,
+   "20": 0,
+   "21": 0,
+   "22": 0,
+   "23": 0,
+   "24": 0,
+   "25": 0,
+   "26": 0,
+   "27": 0,
+   "28": 0,
+   "29": 0,
+   "30": 0,
+   "31": 0,
+   "32": 0,
+   "33": 0,
+   "35": 0,
+   "36": 0,
+   "37": 0,
+   "38": 0,
+   "39": 0,
+   "40": 0,
+   "41": 0,
+   "42": 0,
+   "43": 0,
+   "44": 0,
+   "45": 0,
+   "46": 0,
+   "47": 0,
+   "48": 0,
+   "49": 0,
+   "50": 0
+  },
+  "n_lignes": 51,
+  "n_colonnes": 19,
+  "mesures_statiques": null
+ },
+ "MobileMoney2": {
+  "sequence": [
+   [
+    0,
+    "transactions de mobile money"
+   ],
+   [
+    1,
+    "etablissement"
+   ],
+   [
+    2,
+    "service"
+   ],
+   [
+    3,
+    "total"
+   ],
+   [
+    4,
+    "nature de l information | nombre | valeur | nombre | valeur | nombre | valeur | nombre | valeur | nombre | valeur | nombre | valeur | nombre | valeur | nombre | valeur | nombre | valeur | nombre | valeur | nombre | valeur | nombre | valeur | nombre | valeur | nombre | valeur | nombre | valeur | nombre | valeur | nombre | valeur | nombre | valeur | nombre | valeur"
+   ],
+   [
+    5,
+    "recharge de monnaie electronique"
+   ],
+   [
+    6,
+    "transfert d argent sur support de monnaie electronique"
+   ],
+   [
+    7,
+    "retraits automates a partir de support de monnaie electronique"
+   ],
+   [
+    8,
+    "retraits au guichet a partir de support de monnaie electronique"
+   ],
+   [
+    9,
+    "paiement total en monnaie electronique"
+   ],
+   [
+    10,
+    "transports et voyages 0 5"
+   ],
+   [
+    11,
+    "eau 0 4"
+   ],
+   [
+    12,
+    "electricite 7 9"
+   ],
+   [
+    13,
+    "telephone 15 1"
+   ],
+   [
+    14,
+    "television 4 1"
+   ],
+   [
+    15,
+    "supemaches magasins d equipement menager 1 3"
+   ],
+   [
+    16,
+    "administrations et services publics 0 1"
+   ],
+   [
+    17,
+    "divertissements et loisirs 3 4"
+   ],
+   [
+    18,
+    "alimentation et boissons 11 8"
+   ],
+   [
+    19,
+    "vente a distance 22 1"
+   ],
+   [
+    20,
+    "garage voiture moto et pieces detachees"
+   ],
+   [
+    21,
+    "universites et ecoles 2"
+   ],
+   [
+    22,
+    "stations services 5 7"
+   ],
+   [
+    23,
+    "services divers 9 3"
+   ],
+   [
+    24,
+    "hebergement"
+   ],
+   [
+    25,
+    "autres detaillants 14 8"
+   ],
+   [
+    26,
+    "dont paiements autres detaillants"
+   ],
+   [
+    27,
+    "1 la recharge correspond a une operation de credit dans le compte de monnaie electronique du porteur contre remise d especes ou debit d un compte bancaire"
+   ],
+   [
+    28,
+    "2 le transfert d argent est une operation de credit dans le compte de monnaie electronique resultant du debit d un autre compte de monnaie electronique"
+   ],
+   [
+    29,
+    "3 le retrait automates renvoie a une operation de retraits d especes des porteurs effectues sur les automates"
+   ],
+   [
+    30,
+    "4 le retrait au guichet correspond aux retraits manuels des porteurs dans les guichets de la banque du partenaire technique et des distributeurs"
+   ],
+   [
+    31,
+    "5 le paiement en monnaie electronique consiste en une operation effectuee aupres de commerccants y compris les reglements de facture"
+   ]
+  ],
+  "sequence_libelles": [
+   [
+    0,
+    "transactions de mobile money"
+   ],
+   [
+    1,
+    "etablissement"
+   ],
+   [
+    2,
+    "service"
+   ],
+   [
+    4,
+    "nature de l information"
+   ],
+   [
+    5,
+    "recharge de monnaie electronique"
+   ],
+   [
+    6,
+    "transfert d argent sur support de monnaie electronique"
+   ],
+   [
+    7,
+    "retraits automates a partir de support de monnaie electronique"
+   ],
+   [
+    8,
+    "retraits au guichet a partir de support de monnaie electronique"
+   ],
+   [
+    9,
+    "paiement total en monnaie electronique"
+   ],
+   [
+    10,
+    "transports et voyages 0 5"
+   ],
+   [
+    11,
+    "eau 0 4"
+   ],
+   [
+    12,
+    "electricite 7 9"
+   ],
+   [
+    13,
+    "telephone 15 1"
+   ],
+   [
+    14,
+    "television 4 1"
+   ],
+   [
+    15,
+    "supemaches magasins d equipement menager 1 3"
+   ],
+   [
+    16,
+    "administrations et services publics 0 1"
+   ],
+   [
+    17,
+    "divertissements et loisirs 3 4"
+   ],
+   [
+    18,
+    "alimentation et boissons 11 8"
+   ],
+   [
+    19,
+    "vente a distance 22 1"
+   ],
+   [
+    20,
+    "garage voiture moto et pieces detachees"
+   ],
+   [
+    21,
+    "universites et ecoles 2"
+   ],
+   [
+    22,
+    "stations services 5 7"
+   ],
+   [
+    23,
+    "services divers 9 3"
+   ],
+   [
+    24,
+    "hebergement"
+   ],
+   [
+    25,
+    "autres detaillants 14 8"
+   ],
+   [
+    26,
+    "dont paiements autres detaillants"
+   ],
+   [
+    27,
+    "1 la recharge correspond a une operation de credit dans le compte de monnaie electronique du porteur contre remise d especes ou debit d un compte bancaire"
+   ],
+   [
+    28,
+    "2 le transfert d argent est une operation de credit dans le compte de monnaie electronique resultant du debit d un autre compte de monnaie electronique"
+   ],
+   [
+    29,
+    "3 le retrait automates renvoie a une operation de retraits d especes des porteurs effectues sur les automates"
+   ],
+   [
+    30,
+    "4 le retrait au guichet correspond aux retraits manuels des porteurs dans les guichets de la banque du partenaire technique et des distributeurs"
+   ],
+   [
+    31,
+    "5 le paiement en monnaie electronique consiste en une operation effectuee aupres de commerccants y compris les reglements de facture"
+   ]
+  ],
+  "colonnes_libelles": {
+   "0": 0,
+   "1": 0,
+   "2": 0,
+   "4": 0,
+   "5": 0,
+   "6": 0,
+   "7": 0,
+   "8": 0,
+   "9": 0,
+   "10": 0,
+   "11": 0,
+   "12": 0,
+   "13": 0,
+   "14": 0,
+   "15": 0,
+   "16": 0,
+   "17": 0,
+   "18": 0,
+   "19": 0,
+   "20": 0,
+   "21": 0,
+   "22": 0,
+   "23": 0,
+   "24": 0,
+   "25": 0,
+   "26": 0,
+   "27": 0,
+   "28": 0,
+   "29": 0,
+   "30": 0,
+   "31": 0
+  },
+  "n_lignes": 32,
+  "n_colonnes": 41,
+  "mesures_statiques": null
+ },
+ "MobileMoney3": {
+  "sequence": [
+   [
+    0,
+    "mobile money transactions interoperables"
+   ],
+   [
+    1,
+    "etablissement"
+   ],
+   [
+    2,
+    "service"
+   ],
+   [
+    3,
+    "total transactions a b | total transactions"
+   ],
+   [
+    4,
+    "nombre | valeur"
+   ],
+   [
+    5,
+    "transfert d argent recus"
+   ],
+   [
+    6,
+    "transfert d argent envoi"
+   ],
+   [
+    8,
+    "total"
+   ],
+   [
+    10,
+    "a operations domestiques zone cemac"
+   ],
+   [
+    12,
+    "nombre | valeur"
+   ],
+   [
+    13,
+    "transfert d argent recus"
+   ],
+   [
+    14,
+    "dont cameroun"
+   ],
+   [
+    15,
+    "dont tchad"
+   ],
+   [
+    16,
+    "dont rca"
+   ],
+   [
+    17,
+    "dont congo"
+   ],
+   [
+    18,
+    "dont gabon"
+   ],
+   [
+    19,
+    "dont guinee equatoriale"
+   ],
+   [
+    20,
+    "transfert d argent envoi"
+   ],
+   [
+    21,
+    "dont cameroun"
+   ],
+   [
+    22,
+    "dont tchad"
+   ],
+   [
+    23,
+    "dont rca"
+   ],
+   [
+    24,
+    "dont congo"
+   ],
+   [
+    25,
+    "dont gabon"
+   ],
+   [
+    26,
+    "dont guinee equatoriale"
+   ],
+   [
+    27,
+    "total"
+   ],
+   [
+    29,
+    "b transactions internationales hors zone cemac"
+   ],
+   [
+    31,
+    "nombre | valeur"
+   ],
+   [
+    32,
+    "transfert d argent recus"
+   ],
+   [
+    33,
+    "dont afrique de l ouest cedeao"
+   ],
+   [
+    34,
+    "dont autres pays africains"
+   ],
+   [
+    35,
+    "dont union europeenne"
+   ],
+   [
+    36,
+    "dont autres pays d europe"
+   ],
+   [
+    37,
+    "dont amerique du nord"
+   ],
+   [
+    38,
+    "dont amerique du sud"
+   ],
+   [
+    39,
+    "dont asie"
+   ],
+   [
+    40,
+    "dont oceanie"
+   ],
+   [
+    41,
+    "transfert d argent envoi"
+   ],
+   [
+    42,
+    "dont afrique de l ouest cedeao"
+   ],
+   [
+    43,
+    "dont autres pays africains"
+   ],
+   [
+    44,
+    "dont union europeenne"
+   ],
+   [
+    45,
+    "dont autres pays d europe"
+   ],
+   [
+    46,
+    "dont amerique du nord"
+   ],
+   [
+    47,
+    "dont amerique du sud"
+   ],
+   [
+    48,
+    "dont asie"
+   ],
+   [
+    49,
+    "dont oceanie"
+   ],
+   [
+    50,
+    "total"
+   ]
+  ],
+  "sequence_libelles": [
+   [
+    0,
+    "mobile money transactions interoperables"
+   ],
+   [
+    1,
+    "etablissement"
+   ],
+   [
+    2,
+    "service"
+   ],
+   [
+    3,
+    "total transactions a b"
+   ],
+   [
+    4,
+    "nombre"
+   ],
+   [
+    5,
+    "transfert d argent recus"
+   ],
+   [
+    6,
+    "transfert d argent envoi"
+   ],
+   [
+    8,
+    "total"
+   ],
+   [
+    10,
+    "a operations domestiques zone cemac"
+   ],
+   [
+    12,
+    "nombre"
+   ],
+   [
+    13,
+    "transfert d argent recus"
+   ],
+   [
+    14,
+    "dont cameroun"
+   ],
+   [
+    15,
+    "dont tchad"
+   ],
+   [
+    16,
+    "dont rca"
+   ],
+   [
+    17,
+    "dont congo"
+   ],
+   [
+    18,
+    "dont gabon"
+   ],
+   [
+    19,
+    "dont guinee equatoriale"
+   ],
+   [
+    20,
+    "transfert d argent envoi"
+   ],
+   [
+    21,
+    "dont cameroun"
+   ],
+   [
+    22,
+    "dont tchad"
+   ],
+   [
+    23,
+    "dont rca"
+   ],
+   [
+    24,
+    "dont congo"
+   ],
+   [
+    25,
+    "dont gabon"
+   ],
+   [
+    26,
+    "dont guinee equatoriale"
+   ],
+   [
+    27,
+    "total"
+   ],
+   [
+    29,
+    "b transactions internationales hors zone cemac"
+   ],
+   [
+    31,
+    "nombre"
+   ],
+   [
+    32,
+    "transfert d argent recus"
+   ],
+   [
+    33,
+    "dont afrique de l ouest cedeao"
+   ],
+   [
+    34,
+    "dont autres pays africains"
+   ],
+   [
+    35,
+    "dont union europeenne"
+   ],
+   [
+    36,
+    "dont autres pays d europe"
+   ],
+   [
+    37,
+    "dont amerique du nord"
+   ],
+   [
+    38,
+    "dont amerique du sud"
+   ],
+   [
+    39,
+    "dont asie"
+   ],
+   [
+    40,
+    "dont oceanie"
+   ],
+   [
+    41,
+    "transfert d argent envoi"
+   ],
+   [
+    42,
+    "dont afrique de l ouest cedeao"
+   ],
+   [
+    43,
+    "dont autres pays africains"
+   ],
+   [
+    44,
+    "dont union europeenne"
+   ],
+   [
+    45,
+    "dont autres pays d europe"
+   ],
+   [
+    46,
+    "dont amerique du nord"
+   ],
+   [
+    47,
+    "dont amerique du sud"
+   ],
+   [
+    48,
+    "dont asie"
+   ],
+   [
+    49,
+    "dont oceanie"
+   ],
+   [
+    50,
+    "total"
+   ]
+  ],
+  "colonnes_libelles": {
+   "0": 0,
+   "1": 0,
+   "2": 0,
+   "3": 0,
+   "4": 1,
+   "5": 0,
+   "6": 0,
+   "8": 0,
+   "10": 0,
+   "12": 1,
+   "13": 0,
+   "14": 0,
+   "15": 0,
+   "16": 0,
+   "17": 0,
+   "18": 0,
+   "19": 0,
+   "20": 0,
+   "21": 0,
+   "22": 0,
+   "23": 0,
+   "24": 0,
+   "25": 0,
+   "26": 0,
+   "27": 0,
+   "29": 0,
+   "31": 1,
+   "32": 0,
+   "33": 0,
+   "34": 0,
+   "35": 0,
+   "36": 0,
+   "37": 0,
+   "38": 0,
+   "39": 0,
+   "40": 0,
+   "41": 0,
+   "42": 0,
+   "43": 0,
+   "44": 0,
+   "45": 0,
+   "46": 0,
+   "47": 0,
+   "48": 0,
+   "49": 0,
+   "50": 0
+  },
+  "n_lignes": 51,
+  "n_colonnes": 3,
+  "mesures_statiques": {
+   "nombre": 1,
+   "valeur": 2
+  }
+ },
+ "Cartes1": {
+  "sequence": [
+   [
+    0,
+    "satistiques cartes bancaires"
+   ],
+   [
+    1,
+    "nom de l etablissement | banque a"
+   ],
+   [
+    2,
+    "nombre de clients"
+   ],
+   [
+    3,
+    "nombre de comptes"
+   ],
+   [
+    5,
+    "nombre de cartes"
+   ],
+   [
+    6,
+    "type de cartes | nombre de cartes"
+   ],
+   [
+    7,
+    "cartes de credit"
+   ],
+   [
+    8,
+    "cartes de debit differe"
+   ],
+   [
+    9,
+    "cartes de debit"
+   ],
+   [
+    10,
+    "cartes prepayees"
+   ],
+   [
+    11,
+    "total"
+   ],
+   [
+    13,
+    "transactions cartes"
+   ],
+   [
+    14,
+    "nombre | valeur des transactions"
+   ],
+   [
+    16,
+    "privative"
+   ],
+   [
+    17,
+    "gimac"
+   ],
+   [
+    18,
+    "visa"
+   ],
+   [
+    19,
+    "mastercard"
+   ],
+   [
+    20,
+    "unionpay"
+   ],
+   [
+    21,
+    "american express"
+   ],
+   [
+    22,
+    "autres"
+   ],
+   [
+    25,
+    "fraude sur les cartes"
+   ],
+   [
+    26,
+    "nombre de transactions frauduleuses | montant de la fraude"
+   ],
+   [
+    28,
+    "privative"
+   ],
+   [
+    29,
+    "gimac"
+   ],
+   [
+    30,
+    "visa"
+   ],
+   [
+    31,
+    "mastercard"
+   ],
+   [
+    32,
+    "unionpay"
+   ],
+   [
+    33,
+    "american express"
+   ],
+   [
+    34,
+    "autres"
+   ]
+  ],
+  "sequence_libelles": [
+   [
+    0,
+    "satistiques cartes bancaires"
+   ],
+   [
+    1,
+    "nom de l etablissement"
+   ],
+   [
+    2,
+    "nombre de clients"
+   ],
+   [
+    3,
+    "nombre de comptes"
+   ],
+   [
+    5,
+    "nombre de cartes"
+   ],
+   [
+    6,
+    "nombre de cartes"
+   ],
+   [
+    7,
+    "cartes de credit"
+   ],
+   [
+    8,
+    "cartes de debit differe"
+   ],
+   [
+    9,
+    "cartes de debit"
+   ],
+   [
+    10,
+    "cartes prepayees"
+   ],
+   [
+    11,
+    "total"
+   ],
+   [
+    13,
+    "transactions cartes"
+   ],
+   [
+    16,
+    "privative"
+   ],
+   [
+    17,
+    "gimac"
+   ],
+   [
+    18,
+    "visa"
+   ],
+   [
+    19,
+    "mastercard"
+   ],
+   [
+    20,
+    "unionpay"
+   ],
+   [
+    21,
+    "american express"
+   ],
+   [
+    22,
+    "autres"
+   ],
+   [
+    25,
+    "fraude sur les cartes"
+   ],
+   [
+    28,
+    "privative"
+   ],
+   [
+    29,
+    "gimac"
+   ],
+   [
+    30,
+    "visa"
+   ],
+   [
+    31,
+    "mastercard"
+   ],
+   [
+    32,
+    "unionpay"
+   ],
+   [
+    33,
+    "american express"
+   ],
+   [
+    34,
+    "autres"
+   ]
+  ],
+  "colonnes_libelles": {
+   "0": 0,
+   "1": 0,
+   "2": 0,
+   "3": 0,
+   "5": 0,
+   "6": 1,
+   "7": 0,
+   "8": 0,
+   "9": 0,
+   "10": 0,
+   "11": 0,
+   "13": 0,
+   "16": 0,
+   "17": 0,
+   "18": 0,
+   "19": 0,
+   "20": 0,
+   "21": 0,
+   "22": 0,
+   "25": 0,
+   "28": 0,
+   "29": 0,
+   "30": 0,
+   "31": 0,
+   "32": 0,
+   "33": 0,
+   "34": 0
+  },
+  "n_lignes": 35,
+  "n_colonnes": 5,
+  "mesures_statiques": {
+   "nombre de cartes": 1
+  }
+ },
+ "Cartes 2": {
+  "sequence": [
+   [
+    0,
+    "transactions cartes en emission"
+   ],
+   [
+    1,
+    "reseau | remplir un formulaire pour chacun des reseaux de cartes"
+   ],
+   [
+    2,
+    "transactions totales"
+   ],
+   [
+    3,
+    "nombre | valeur"
+   ],
+   [
+    4,
+    "paiements achats"
+   ],
+   [
+    5,
+    "dont vente a distance"
+   ],
+   [
+    6,
+    "retraits gab"
+   ],
+   [
+    7,
+    "transferts"
+   ],
+   [
+    8,
+    "avoirs credits"
+   ],
+   [
+    9,
+    "remboursements"
+   ],
+   [
+    10,
+    "total a b c d"
+   ],
+   [
+    12,
+    "transactions dans la banque"
+   ],
+   [
+    13,
+    "nombre | valeur"
+   ],
+   [
+    14,
+    "paiements achats"
+   ],
+   [
+    15,
+    "dont vente a distance"
+   ],
+   [
+    16,
+    "retraits gab"
+   ],
+   [
+    17,
+    "transferts"
+   ],
+   [
+    18,
+    "avoirs credits"
+   ],
+   [
+    19,
+    "remboursements"
+   ],
+   [
+    20,
+    "total b"
+   ],
+   [
+    22,
+    "transactions dans la cemac"
+   ],
+   [
+    23,
+    "nombre | valeur"
+   ],
+   [
+    24,
+    "paiements achats"
+   ],
+   [
+    25,
+    "dont vente a distance"
+   ],
+   [
+    26,
+    "retraits gab"
+   ],
+   [
+    27,
+    "transferts"
+   ],
+   [
+    28,
+    "avoirs credits"
+   ],
+   [
+    29,
+    "remboursements"
+   ],
+   [
+    30,
+    "total c"
+   ],
+   [
+    32,
+    "transactions internationales"
+   ],
+   [
+    33,
+    "nombre | valeur"
+   ],
+   [
+    34,
+    "paiements achats"
+   ],
+   [
+    35,
+    "dont vente a ditance"
+   ],
+   [
+    36,
+    "retraits gab"
+   ],
+   [
+    37,
+    "transferts"
+   ],
+   [
+    38,
+    "avoirs credits"
+   ],
+   [
+    39,
+    "remboursements"
+   ],
+   [
+    40,
+    "total d"
+   ],
+   [
+    41,
+    "1 transactions dans les guichets ou les automates localises dans la cemac autres que ceux de la banque"
+   ],
+   [
+    42,
+    "2 transations dans les guichets ou les automates localises hors de la cemac"
+   ],
+   [
+    43,
+    "3 operations d achats de biens ou de services realises sans la presence effective du porteur dans une boutique internet telephone etc"
+   ],
+   [
+    44,
+    "4 transfert carte vers une autre carte ou de la carte vers un porte monnaie electronique"
+   ],
+   [
+    45,
+    "5 operation de credit a l initiative des commercants"
+   ],
+   [
+    46,
+    "6 operation de credit a l initiative d une banque en annulation d une transaction a la suite d une reclamation du porteur"
+   ],
+   [
+    47,
+    "total paiements retraits transferts avoirs remboursements"
+   ]
+  ],
+  "sequence_libelles": [
+   [
+    0,
+    "transactions cartes en emission"
+   ],
+   [
+    1,
+    "remplir un formulaire pour chacun des reseaux de cartes"
+   ],
+   [
+    2,
+    "transactions totales"
+   ],
+   [
+    3,
+    "nombre"
+   ],
+   [
+    4,
+    "paiements achats"
+   ],
+   [
+    5,
+    "dont vente a distance"
+   ],
+   [
+    6,
+    "retraits gab"
+   ],
+   [
+    7,
+    "transferts"
+   ],
+   [
+    8,
+    "avoirs credits"
+   ],
+   [
+    9,
+    "remboursements"
+   ],
+   [
+    10,
+    "total a b c d"
+   ],
+   [
+    12,
+    "transactions dans la banque"
+   ],
+   [
+    13,
+    "nombre"
+   ],
+   [
+    14,
+    "paiements achats"
+   ],
+   [
+    15,
+    "dont vente a distance"
+   ],
+   [
+    16,
+    "retraits gab"
+   ],
+   [
+    17,
+    "transferts"
+   ],
+   [
+    18,
+    "avoirs credits"
+   ],
+   [
+    19,
+    "remboursements"
+   ],
+   [
+    20,
+    "total b"
+   ],
+   [
+    22,
+    "transactions dans la cemac"
+   ],
+   [
+    23,
+    "nombre"
+   ],
+   [
+    24,
+    "paiements achats"
+   ],
+   [
+    25,
+    "dont vente a distance"
+   ],
+   [
+    26,
+    "retraits gab"
+   ],
+   [
+    27,
+    "transferts"
+   ],
+   [
+    28,
+    "avoirs credits"
+   ],
+   [
+    29,
+    "remboursements"
+   ],
+   [
+    30,
+    "total c"
+   ],
+   [
+    32,
+    "transactions internationales"
+   ],
+   [
+    33,
+    "nombre"
+   ],
+   [
+    34,
+    "paiements achats"
+   ],
+   [
+    35,
+    "dont vente a ditance"
+   ],
+   [
+    36,
+    "retraits gab"
+   ],
+   [
+    37,
+    "transferts"
+   ],
+   [
+    38,
+    "avoirs credits"
+   ],
+   [
+    39,
+    "remboursements"
+   ],
+   [
+    40,
+    "total d"
+   ],
+   [
+    41,
+    "1 transactions dans les guichets ou les automates localises dans la cemac autres que ceux de la banque"
+   ],
+   [
+    42,
+    "2 transations dans les guichets ou les automates localises hors de la cemac"
+   ],
+   [
+    43,
+    "3 operations d achats de biens ou de services realises sans la presence effective du porteur dans une boutique internet telephone etc"
+   ],
+   [
+    44,
+    "4 transfert carte vers une autre carte ou de la carte vers un porte monnaie electronique"
+   ],
+   [
+    45,
+    "5 operation de credit a l initiative des commercants"
+   ],
+   [
+    46,
+    "6 operation de credit a l initiative d une banque en annulation d une transaction a la suite d une reclamation du porteur"
+   ],
+   [
+    47,
+    "total paiements retraits transferts avoirs remboursements"
+   ]
+  ],
+  "colonnes_libelles": {
+   "0": 0,
+   "1": 1,
+   "2": 1,
+   "3": 1,
+   "4": 0,
+   "5": 0,
+   "6": 0,
+   "7": 0,
+   "8": 0,
+   "9": 0,
+   "10": 0,
+   "12": 1,
+   "13": 1,
+   "14": 0,
+   "15": 0,
+   "16": 0,
+   "17": 0,
+   "18": 0,
+   "19": 0,
+   "20": 0,
+   "22": 1,
+   "23": 1,
+   "24": 0,
+   "25": 0,
+   "26": 0,
+   "27": 0,
+   "28": 0,
+   "29": 0,
+   "30": 0,
+   "32": 1,
+   "33": 1,
+   "34": 0,
+   "35": 0,
+   "36": 0,
+   "37": 0,
+   "38": 0,
+   "39": 0,
+   "40": 0,
+   "41": 0,
+   "42": 0,
+   "43": 0,
+   "44": 0,
+   "45": 0,
+   "46": 0,
+   "47": 0
+  },
+  "n_lignes": 48,
+  "n_colonnes": 3,
+  "mesures_statiques": {
+   "nombre": 1,
+   "valeur": 2
+  }
+ },
+ "Cartes 3": {
+  "sequence": [
+   [
+    0,
+    "transactions cartes en acquisition"
+   ],
+   [
+    1,
+    "reseau | remplir un formuaire par reseau"
+   ],
+   [
+    3,
+    "reseau | nombre de gab | nombre de tpe | tpe acceptant les cartes sans contact | nombre de commercants | nombre de e commerce"
+   ],
+   [
+    4,
+    "privative"
+   ],
+   [
+    5,
+    "gimac"
+   ],
+   [
+    6,
+    "visa"
+   ],
+   [
+    7,
+    "mastercard"
+   ],
+   [
+    8,
+    "unionpay"
+   ],
+   [
+    9,
+    "american express"
+   ],
+   [
+    10,
+    "autres"
+   ]
+  ],
+  "sequence_libelles": [
+   [
+    0,
+    "transactions cartes en acquisition"
+   ],
+   [
+    1,
+    "remplir un formuaire par reseau"
+   ],
+   [
+    3,
+    "nombre de gab"
+   ],
+   [
+    4,
+    "privative"
+   ],
+   [
+    5,
+    "gimac"
+   ],
+   [
+    6,
+    "visa"
+   ],
+   [
+    7,
+    "mastercard"
+   ],
+   [
+    8,
+    "unionpay"
+   ],
+   [
+    9,
+    "american express"
+   ],
+   [
+    10,
+    "autres"
+   ]
+  ],
+  "colonnes_libelles": {
+   "0": 0,
+   "1": 1,
+   "3": 1,
+   "4": 0,
+   "5": 0,
+   "6": 0,
+   "7": 0,
+   "8": 0,
+   "9": 0,
+   "10": 0
+  },
+  "n_lignes": 12,
+  "n_colonnes": 6,
+  "mesures_statiques": {
+   "nombre de gab": 1,
+   "nombre de tpe": 2,
+   "nombre de commercants": 4,
+   "nombre de e commerce": 5
+  }
+ },
+ "Cartes 4": {
+  "sequence": [
+   [
+    0,
+    "paiements par cartes"
+   ],
+   [
+    1,
+    "reseau remplir un formulaire par reseau"
+   ],
+   [
+    3,
+    "nature de l information"
+   ],
+   [
+    4,
+    "valeur"
+   ],
+   [
+    5,
+    "nombre"
+   ],
+   [
+    6,
+    "total des paiements"
+   ],
+   [
+    7,
+    "dont paiements transports et voyages"
+   ],
+   [
+    8,
+    "dont paiements facture d eau"
+   ],
+   [
+    9,
+    "dont paiements facture d electricite"
+   ],
+   [
+    10,
+    "dont paiements facture telephone postpaye et prepaye"
+   ],
+   [
+    11,
+    "dont paiements television et autres services de telecommunication"
+   ],
+   [
+    12,
+    "dont paiements supermarches magasins d equipement menager"
+   ],
+   [
+    13,
+    "dont paiements administrations et services publics"
+   ],
+   [
+    14,
+    "dont paiements divertissements et loisirs"
+   ],
+   [
+    15,
+    "dont paiements alimentation et boissons"
+   ],
+   [
+    16,
+    "dont paiements vente a distance"
+   ],
+   [
+    17,
+    "dont paiements garage voiture moto et pieces detachees"
+   ],
+   [
+    18,
+    "dont paiements universites et ecoles services aux etudiants et eleves"
+   ],
+   [
+    19,
+    "dont paiements petrole essence stations services"
+   ],
+   [
+    20,
+    "dont paiements services divers"
+   ],
+   [
+    21,
+    "dont paiements hotels et autres services d hebergement"
+   ],
+   [
+    22,
+    "dont paiements services divers"
+   ],
+   [
+    23,
+    "dont paiements autres detaillants"
+   ],
+   [
+    24,
+    "dont paiements restaurant"
+   ],
+   [
+    25,
+    "1 sur internet"
+   ]
+  ],
+  "sequence_libelles": [
+   [
+    0,
+    "paiements par cartes"
+   ],
+   [
+    1,
+    "reseau remplir un formulaire par reseau"
+   ],
+   [
+    3,
+    "nature de l information"
+   ],
+   [
+    5,
+    "nombre"
+   ],
+   [
+    6,
+    "total des paiements"
+   ],
+   [
+    7,
+    "dont paiements transports et voyages"
+   ],
+   [
+    8,
+    "dont paiements facture d eau"
+   ],
+   [
+    9,
+    "dont paiements facture d electricite"
+   ],
+   [
+    10,
+    "dont paiements facture telephone postpaye et prepaye"
+   ],
+   [
+    11,
+    "dont paiements television et autres services de telecommunication"
+   ],
+   [
+    12,
+    "dont paiements supermarches magasins d equipement menager"
+   ],
+   [
+    13,
+    "dont paiements administrations et services publics"
+   ],
+   [
+    14,
+    "dont paiements divertissements et loisirs"
+   ],
+   [
+    15,
+    "dont paiements alimentation et boissons"
+   ],
+   [
+    16,
+    "dont paiements vente a distance"
+   ],
+   [
+    17,
+    "dont paiements garage voiture moto et pieces detachees"
+   ],
+   [
+    18,
+    "dont paiements universites et ecoles services aux etudiants et eleves"
+   ],
+   [
+    19,
+    "dont paiements petrole essence stations services"
+   ],
+   [
+    20,
+    "dont paiements services divers"
+   ],
+   [
+    21,
+    "dont paiements hotels et autres services d hebergement"
+   ],
+   [
+    22,
+    "dont paiements services divers"
+   ],
+   [
+    23,
+    "dont paiements autres detaillants"
+   ],
+   [
+    24,
+    "dont paiements restaurant"
+   ],
+   [
+    25,
+    "1 sur internet"
+   ]
+  ],
+  "colonnes_libelles": {
+   "0": 0,
+   "1": 0,
+   "3": 0,
+   "5": 1,
+   "6": 0,
+   "7": 0,
+   "8": 0,
+   "9": 0,
+   "10": 0,
+   "11": 0,
+   "12": 0,
+   "13": 0,
+   "14": 0,
+   "15": 0,
+   "16": 0,
+   "17": 0,
+   "18": 0,
+   "19": 0,
+   "20": 0,
+   "21": 0,
+   "22": 0,
+   "23": 0,
+   "24": 0,
+   "25": 0
+  },
+  "n_lignes": 26,
+  "n_colonnes": 3,
+  "mesures_statiques": {
+   "valeur": 2
+  }
+ },
+ "Cartes 5": {
+  "sequence": [
+   [
+    0,
+    "transactions cartes en acquisition"
+   ],
+   [
+    1,
+    "pour chacun de vos reseau d acquisition veuillez renseigner les statistiques suivantes concernant les transactions des autres porteurs sur vos automates"
+   ],
+   [
+    2,
+    "retrait d argent"
+   ],
+   [
+    3,
+    "total transactions"
+   ],
+   [
+    4,
+    "total transactions"
+   ],
+   [
+    5,
+    "nombre | valeur"
+   ],
+   [
+    6,
+    "retrait gab"
+   ],
+   [
+    7,
+    "retrait manuel"
+   ],
+   [
+    8,
+    "total a b c d"
+   ],
+   [
+    9,
+    "transactions de vos porteurs"
+   ],
+   [
+    10,
+    "retrait gab"
+   ],
+   [
+    11,
+    "retrait manuel"
+   ],
+   [
+    12,
+    "total b"
+   ],
+   [
+    13,
+    "transactions des porteurs de la cemac"
+   ],
+   [
+    14,
+    "retrait gab"
+   ],
+   [
+    15,
+    "retrait manuel"
+   ],
+   [
+    16,
+    "total c"
+   ],
+   [
+    17,
+    "transactions des porteurs internationaux"
+   ],
+   [
+    18,
+    "retrait gab"
+   ],
+   [
+    19,
+    "retrait manuel"
+   ],
+   [
+    20,
+    "total d"
+   ],
+   [
+    22,
+    "tpe"
+   ],
+   [
+    23,
+    "total transactions | total transactions"
+   ],
+   [
+    24,
+    "paiement"
+   ],
+   [
+    25,
+    "dont paiement a distance"
+   ],
+   [
+    26,
+    "annulation remboursement"
+   ],
+   [
+    27,
+    "total a b c d"
+   ],
+   [
+    28,
+    "transactions de vos porteurs"
+   ],
+   [
+    29,
+    "paiement"
+   ],
+   [
+    30,
+    "dont paiement a distance"
+   ],
+   [
+    31,
+    "annulation remboursement"
+   ],
+   [
+    32,
+    "total b"
+   ],
+   [
+    33,
+    "transactions des porteurs de la cemac"
+   ],
+   [
+    34,
+    "paiement"
+   ],
+   [
+    35,
+    "dont paiement a distance"
+   ],
+   [
+    36,
+    "annulation remboursement"
+   ],
+   [
+    37,
+    "total c"
+   ],
+   [
+    38,
+    "transactions des porteurs internationaux"
+   ],
+   [
+    39,
+    "nombre | valeur"
+   ],
+   [
+    40,
+    "paiement"
+   ],
+   [
+    41,
+    "dont paiement a distance"
+   ],
+   [
+    42,
+    "annulation remboursement"
+   ],
+   [
+    43,
+    "total d"
+   ]
+  ],
+  "sequence_libelles": [
+   [
+    0,
+    "transactions cartes en acquisition"
+   ],
+   [
+    1,
+    "pour chacun de vos reseau d acquisition veuillez renseigner les statistiques suivantes concernant les transactions des autres porteurs sur vos automates"
+   ],
+   [
+    2,
+    "retrait d argent"
+   ],
+   [
+    3,
+    "total transactions"
+   ],
+   [
+    4,
+    "total transactions"
+   ],
+   [
+    5,
+    "nombre"
+   ],
+   [
+    6,
+    "retrait gab"
+   ],
+   [
+    7,
+    "retrait manuel"
+   ],
+   [
+    8,
+    "total a b c d"
+   ],
+   [
+    9,
+    "transactions de vos porteurs"
+   ],
+   [
+    10,
+    "retrait gab"
+   ],
+   [
+    11,
+    "retrait manuel"
+   ],
+   [
+    12,
+    "total b"
+   ],
+   [
+    13,
+    "transactions des porteurs de la cemac"
+   ],
+   [
+    14,
+    "retrait gab"
+   ],
+   [
+    15,
+    "retrait manuel"
+   ],
+   [
+    16,
+    "total c"
+   ],
+   [
+    17,
+    "transactions des porteurs internationaux"
+   ],
+   [
+    18,
+    "retrait gab"
+   ],
+   [
+    19,
+    "retrait manuel"
+   ],
+   [
+    20,
+    "total d"
+   ],
+   [
+    22,
+    "tpe"
+   ],
+   [
+    23,
+    "total transactions"
+   ],
+   [
+    24,
+    "paiement"
+   ],
+   [
+    25,
+    "dont paiement a distance"
+   ],
+   [
+    26,
+    "annulation remboursement"
+   ],
+   [
+    27,
+    "total a b c d"
+   ],
+   [
+    28,
+    "transactions de vos porteurs"
+   ],
+   [
+    29,
+    "paiement"
+   ],
+   [
+    30,
+    "dont paiement a distance"
+   ],
+   [
+    31,
+    "annulation remboursement"
+   ],
+   [
+    32,
+    "total b"
+   ],
+   [
+    33,
+    "transactions des porteurs de la cemac"
+   ],
+   [
+    34,
+    "paiement"
+   ],
+   [
+    35,
+    "dont paiement a distance"
+   ],
+   [
+    36,
+    "annulation remboursement"
+   ],
+   [
+    37,
+    "total c"
+   ],
+   [
+    38,
+    "transactions des porteurs internationaux"
+   ],
+   [
+    39,
+    "nombre"
+   ],
+   [
+    40,
+    "paiement"
+   ],
+   [
+    41,
+    "dont paiement a distance"
+   ],
+   [
+    42,
+    "annulation remboursement"
+   ],
+   [
+    43,
+    "total d"
+   ]
+  ],
+  "colonnes_libelles": {
+   "0": 0,
+   "1": 0,
+   "2": 0,
+   "3": 1,
+   "4": 0,
+   "5": 1,
+   "6": 0,
+   "7": 0,
+   "8": 0,
+   "9": 0,
+   "10": 0,
+   "11": 0,
+   "12": 0,
+   "13": 0,
+   "14": 0,
+   "15": 0,
+   "16": 0,
+   "17": 0,
+   "18": 0,
+   "19": 0,
+   "20": 0,
+   "22": 0,
+   "23": 0,
+   "24": 0,
+   "25": 0,
+   "26": 0,
+   "27": 0,
+   "28": 0,
+   "29": 0,
+   "30": 0,
+   "31": 0,
+   "32": 0,
+   "33": 0,
+   "34": 0,
+   "35": 0,
+   "36": 0,
+   "37": 0,
+   "38": 0,
+   "39": 1,
+   "40": 0,
+   "41": 0,
+   "42": 0,
+   "43": 0
+  },
+  "n_lignes": 44,
+  "n_colonnes": 3,
+  "mesures_statiques": {
+   "nombre": 1,
+   "valeur": 2
+  }
+ },
+ "PrêtsCredits": {
+  "sequence": [
+   [
+    0,
+    "prets credits octroyees aux particuiersen"
+   ],
+   [
+    2,
+    "type de pret nom du service | duree en jours | teg | montants octroyes | remboursements"
+   ]
+  ],
+  "sequence_libelles": [
+   [
+    0,
+    "prets credits octroyees aux particuiersen"
+   ],
+   [
+    2,
+    "type de pret nom du service"
+   ]
+  ],
+  "colonnes_libelles": {
+   "0": 0,
+   "2": 0
+  },
+  "n_lignes": 13,
+  "n_colonnes": 5,
+  "mesures_statiques": {
+   "montants octroyes": 3
+  }
+ }
+}
